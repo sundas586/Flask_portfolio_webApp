@@ -1,0 +1,11 @@
+{
+    "params": {
+        "myname": "Your Name",
+        "local_uri_MySQL" : "mysql+pymysql://root:@localhost:3306/your_db",
+        "socket" :    ".../mysql/mysql.sock",
+        "git_url" : "https://github.com/***",
+        "lnkdin_url" : "https://www.linkedin.com/in/***/",
+        "gmail-user":"***@gmail.com",
+        "gmail-password":"***"
+    }
+}
